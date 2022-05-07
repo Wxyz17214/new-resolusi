@@ -1,7 +1,6 @@
 resolusi
--140
--240
 -360
 -720
 -1080
 -ultraHD
+-silau
