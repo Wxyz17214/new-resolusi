@@ -4,3 +4,4 @@ resolusi
 -360
 -720
 -1080
+-ultraHD
